@@ -1,7 +1,7 @@
 # script
 thesis manuscript
 
-Jupyter notebook $\rightarrow$ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alvarosruiz/script/master)
+Jupyter notebook -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alvarosruiz/script/master)
 
 :image: https://mybinder.org/badge_logo.svg
 
