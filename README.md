@@ -1,7 +1,8 @@
 # script
-PhD thesis manuscript
+thesis manuscript
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alvarosruiz/script/master)
+Jupyter notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alvarosruiz/script/master)
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/alvarosruiz/script/master
+
+:target: https://mybinder.org/v2/gh/alvarosruiz/script/master
